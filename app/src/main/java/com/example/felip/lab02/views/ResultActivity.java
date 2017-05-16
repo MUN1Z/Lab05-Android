@@ -1,15 +1,13 @@
-package com.example.felip.lab02;
+package com.example.felip.lab02.views;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Adapter;
-import android.widget.ArrayAdapter;
 import android.widget.Button;
-import android.widget.ListView;
 import android.widget.TextView;
-import android.widget.Toast;
+
+import com.example.felip.lab02.R;
 
 public class ResultActivity extends AppCompatActivity {
 
