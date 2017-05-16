@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="100"
+    android:layout_width="100">
+    <ListPreference
+        android:key="estabelecimento_preference"
+        android:title="Estabelecimentos"
+        android:entries="@array/Estabelecimentos"
+        android:entryValues="@array/Estabelecimentos"/>
+</PreferenceScreen>

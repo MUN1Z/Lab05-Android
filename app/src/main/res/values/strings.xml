@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab02</string>
+    <string name="title_activity_configuracoes">ConfiguracoesActivity</string>
+    <string name="title_activity_teste">TesteActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="Estabelecimentos">
+        <item>joao</item>
+        <item>maria</item>
+    </string-array>
+</resources>
